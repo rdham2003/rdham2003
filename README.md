@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Rohit Dham</h1>
+<h3 align="center">I am a third-year Computer Science student at the University of Minnesota, specializing in full-stack development that integrates Machine Learning and DevOps practices. </h3>
 
 # 💫 About Me:
-<h3 align="center">I am a third-year Computer Science student at the University of Minnesota, specializing in full-stack development that integrates Machine Learning and DevOps practices. </h3>
 🔭 I have recently finished working on SkillTap<br><br>🌱 I’m currently learning DevOps and CI/CD tools such as Jenkins and Azure DevOps<br><br>👯 I’m looking forward to Connecting with and meeting new people<br><br>📄 Know about my experiences https://tech-rdham.pro/assets/RohitDhamCS2025.pdf
 
 ## 🌐 Socials:
