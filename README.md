@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rohit Dham</h1>
 <h3 align="center">A Third-year Computer Science student at the University of Minnesota</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdham2003&label=Profile%20views&color=0e75b6&style=flat" alt="rdham2003" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdham2003" alt="rdham2003" /></a> </p>
 
 - 🔭 I have recently finished working on [SkillTap](https://github.com/rdham2003/SkillTap)
