@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Rohit Dham</h1>
-<h3 align="center">A Third-year Computer Science student at the University of Minnesota</h3>
+<h3 align="center">I am a third-year Computer Science student at the University of Minnesota, specializing in full-stack development that integrates Machine Learning and DevOps practices. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdham2003" alt="rdham2003" /></a> </p>
 
 - 🔭 I have recently finished working on [SkillTap](https://github.com/rdham2003/SkillTap)
 
-- 🌱 I’m currently learning **New DevOps tools such as Jenkins**
+- 🌱 I’m currently learning **DevOps and CI/CD tools such as Jenkins and Azure DevOps**
 
 - 👯 I’m looking forward to **Connecting with and meeting new people**
 
