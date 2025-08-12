@@ -2,7 +2,7 @@
 <h3 align="center">I am a third-year Computer Science student at the University of Minnesota, specializing in full-stack development that integrates Machine Learning and DevOps practices. </h3>
 
 # 💫 About Me:
-🧳 I am currently a Software Engineer intern at Noblis<br><br>👯 I’m looking forward to Connecting with and meeting new people<br><br>📄 Know about my experiences https://tech-rdham.pro/assets/RohitDham_SWE_Resume.pdf
+💼 I am currently a Software Engineer intern at Noblis<br><br>🖥️I am currently working on Whatsonurmind<br><br>👯 I’m looking forward to Connecting with and meeting new people<br><br>📄 Know about my experiences https://tech-rdham.pro/assets/RohitDham_SWE_Resume.pdf
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-dham-89903b274/) 
