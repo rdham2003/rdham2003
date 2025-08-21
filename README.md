@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rohit Dham</h1>
-<h3 align="center">I am a fourth-year Computer Science student at the University of Minnesota, specializing in full-stack development that integrates Machine Learning and DevOps practices. </h3>
+<h3 align="center">I am a fourth-year Computer Science student at the University of Minnesota, specializing in full-stack web development that integrates Machine Learning and DevOps practices. </h3>
 
 # 💫 About Me:
 💼 I am currently a Software Engineer Intern at Noblis using ASP.NET MVC, jQuery, SQL, and AWS<br><br>🖥️I am currently working on an AI-Powered study guide with React.js, Springboot, PostgreSQL, and AWS<br><br>👯 I’m looking forward to connecting with and meeting new people<br><br>📄 Know about my experiences https://tech-rdham.pro/assets/RohitDham_SWE_Resume.pdf
