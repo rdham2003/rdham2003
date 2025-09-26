@@ -2,7 +2,7 @@
 <h3 align="center">I am a fourth-year Computer Science student at the University of Minnesota, specializing in full-stack web development that integrates Machine Learning and DevOps practices. </h3>
 
 # 💫 About Me:
-💼 I am currently a Software Engineer Intern at Noblis and a Software Engineer Extern for Medtronic<br><br>🖥️I am currently working on Scholar.ai, an AI-Powered study guide with React.js, Springboot, PostgreSQL, and AWS<br><br>👯 I’m looking forward to connecting with and meeting new people<br><br>📄 Know about my experiences https://tech-rdham.pro/assets/RohitDham_SWE_Resume.pdf
+💼 I am currently a Software Engineer Intern at Noblis and a Software Engineer Co-op for Medtronic<br><br>🖥️I am currently working on Scholar.ai, an AI-Powered study guide with React.js, Springboot, PostgreSQL, and AWS<br><br>👯 I’m looking forward to connecting with and meeting new people<br><br>📄 Know about my experiences https://tech-rdham.pro/assets/RohitDham_SWE_Resume.pdf
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-dham-89903b274/) 
